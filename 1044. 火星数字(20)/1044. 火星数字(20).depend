@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517734292 source:c:\users\myr\desktop\程序设计天梯赛\1044. 火星数字(20)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

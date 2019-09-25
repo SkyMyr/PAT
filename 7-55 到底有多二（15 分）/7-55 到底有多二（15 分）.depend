@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534235118 source:c:\users\myr\desktop\程序设计天梯赛\7-55 到底有多二（15 分）\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

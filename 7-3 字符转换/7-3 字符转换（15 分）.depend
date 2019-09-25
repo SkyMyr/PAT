@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531743630 source:c:\users\myr\desktop\程序设计天梯赛\7-3 字符转换（15 分）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

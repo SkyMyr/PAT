@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517283440 source:c:\users\myr\desktop\程序设计天梯赛\l1-003. 个位数统计\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

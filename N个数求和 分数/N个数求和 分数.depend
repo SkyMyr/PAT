@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521947319 source:c:\users\myr\desktop\程序设计天梯赛\n个数求和 分数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

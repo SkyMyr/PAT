@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519361120 source:c:\users\myr\desktop\程序设计天梯赛\1018. 锤子剪刀布 (20)\main.c
+	<stdio.h>
+	<stdlib.h>
+

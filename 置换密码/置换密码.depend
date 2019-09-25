@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538385348 source:c:\users\myr\desktop\程序设计天梯赛\置换密码\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

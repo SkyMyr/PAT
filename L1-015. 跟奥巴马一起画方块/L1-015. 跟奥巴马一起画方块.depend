@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517284292 source:c:\users\myr\desktop\程序设计天梯赛\l1-015. 跟奥巴马一起画方块\main.c
+	<stdio.h>
+	<stdlib.h>
+

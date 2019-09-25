@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521204244 source:c:\users\myr\desktop\程序设计天梯赛\矩阵的操作\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531789570 source:c:\users\myr\desktop\程序设计天梯赛\7-6 统计一行文本的单词个数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

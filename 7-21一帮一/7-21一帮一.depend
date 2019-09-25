@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532425071 source:c:\users\myr\desktop\程序设计天梯赛\7-21一帮一\main.c
+	<stdio.h>
+	<stdlib.h>
+

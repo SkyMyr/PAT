@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532998573 source:c:\users\myr\desktop\程序设计天梯赛\7-39 求集合数据的均方差（15 分）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

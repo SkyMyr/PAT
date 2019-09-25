@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519874820 source:c:\users\myr\desktop\程序设计天梯赛\1079. 延迟的回文数 (20)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

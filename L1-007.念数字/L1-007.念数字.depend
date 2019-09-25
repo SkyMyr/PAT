@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517191516 source:c:\users\myr\desktop\程序设计天梯赛\l1-007.念数字\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

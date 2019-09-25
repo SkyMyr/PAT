@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1518070464 source:c:\users\myr\desktop\程序设计天梯赛\1033. 旧键盘打字(20)\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdio.h>
+

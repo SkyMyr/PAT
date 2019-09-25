@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518915062 source:c:\users\myr\desktop\程序设计天梯赛\l2-008. 最长对称子串\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

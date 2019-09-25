@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532911367 source:c:\users\myr\desktop\程序设计天梯赛\7-35 求矩阵各行元素之和\main.c
+	<stdio.h>
+	<stdlib.h>
+

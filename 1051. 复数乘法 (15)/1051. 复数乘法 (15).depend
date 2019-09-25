@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519210234 source:c:\users\myr\desktop\程序设计天梯赛\1051. 复数乘法 (15)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

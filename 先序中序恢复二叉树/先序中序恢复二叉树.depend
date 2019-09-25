@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518526237 source:c:\users\myr\desktop\程序设计天梯赛\先序中序恢复二叉树\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

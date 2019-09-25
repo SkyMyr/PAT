@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532425769 source:c:\users\myr\desktop\程序设计天梯赛\7-22 找出不是两个数组共有的元素（20 分）提问\main.c
+	<stdio.h>
+	<stdlib.h>
+

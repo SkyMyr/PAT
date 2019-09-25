@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532068460 source:c:\users\myr\desktop\程序设计天梯赛\7-7 字符串转换成十进制整数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

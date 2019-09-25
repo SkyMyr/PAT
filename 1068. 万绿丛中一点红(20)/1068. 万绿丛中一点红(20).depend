@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518075608 source:c:\users\myr\desktop\程序设计天梯赛\1068. 万绿丛中一点红(20)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532432733 source:c:\users\myr\desktop\程序设计天梯赛\7-23 查找书籍（20 分)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

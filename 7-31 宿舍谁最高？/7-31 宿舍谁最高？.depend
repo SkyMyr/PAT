@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532738111 source:c:\users\myr\desktop\程序设计天梯赛\7-31 宿舍谁最高？\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

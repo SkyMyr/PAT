@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531733392 source:c:\users\myr\desktop\程序设计天梯赛\7-1 统计字符（15 分）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

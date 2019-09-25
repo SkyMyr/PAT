@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535167524 source:c:\users\myr\desktop\程序设计天梯赛\7-63 素数对猜想（20 分）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

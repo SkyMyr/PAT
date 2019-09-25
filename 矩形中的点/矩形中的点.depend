@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520398197 source:c:\users\myr\desktop\程序设计天梯赛\矩形中的点\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
